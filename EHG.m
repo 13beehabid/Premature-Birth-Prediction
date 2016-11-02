@@ -8,7 +8,7 @@ clc
 
 for i = 1:300
     
-    x = load(['C:\Users\Muhaamad Zuhaib\Desktop\TPEHG Database\tpehg (',num2str(i),').mat']);
+    x = load(['C:\Users\Desktop\TPEHG Database\tpehg (',num2str(i),').mat']);
 
 %     plot(x.val)
 
